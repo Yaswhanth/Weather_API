@@ -1,0 +1,5 @@
+/home/yash/Projects/Weather_API/obj/Debug/net8.0/Weather_API.GeneratedMSBuildEditorConfig.editorconfig
+/home/yash/Projects/Weather_API/obj/Debug/net8.0/Weather_API.AssemblyInfoInputs.cache
+/home/yash/Projects/Weather_API/obj/Debug/net8.0/Weather_API.AssemblyInfo.cs
+/home/yash/Projects/Weather_API/obj/Debug/net8.0/Weather_API.csproj.CoreCompileInputs.cache
+/home/yash/Projects/Weather_API/obj/Debug/net8.0/Weather_API.sourcelink.json

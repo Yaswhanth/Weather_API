@@ -1,0 +1,12 @@
+/home/yash/Projects/Weather_API/SensorSimulator/bin/Debug/net8.0/SensorSimulator.deps.json
+/home/yash/Projects/Weather_API/SensorSimulator/bin/Debug/net8.0/SensorSimulator.dll
+/home/yash/Projects/Weather_API/SensorSimulator/bin/Debug/net8.0/SensorSimulator.pdb
+/home/yash/Projects/Weather_API/SensorSimulator/obj/Debug/net8.0/SensorSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/home/yash/Projects/Weather_API/SensorSimulator/obj/Debug/net8.0/SensorSimulator.AssemblyInfoInputs.cache
+/home/yash/Projects/Weather_API/SensorSimulator/obj/Debug/net8.0/SensorSimulator.AssemblyInfo.cs
+/home/yash/Projects/Weather_API/SensorSimulator/obj/Debug/net8.0/SensorSimulator.csproj.CoreCompileInputs.cache
+/home/yash/Projects/Weather_API/SensorSimulator/obj/Debug/net8.0/SensorSimulator.sourcelink.json
+/home/yash/Projects/Weather_API/SensorSimulator/obj/Debug/net8.0/SensorSimulator.dll
+/home/yash/Projects/Weather_API/SensorSimulator/obj/Debug/net8.0/refint/SensorSimulator.dll
+/home/yash/Projects/Weather_API/SensorSimulator/obj/Debug/net8.0/SensorSimulator.pdb
+/home/yash/Projects/Weather_API/SensorSimulator/obj/Debug/net8.0/ref/SensorSimulator.dll
